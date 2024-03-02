@@ -29,10 +29,10 @@ data class DynamicText(
 
 data class DynamicTextStyle(
     val color: Long?,
-    val startIndex: Int?,
     val fontWeight: DtFontWeight?,
     val fontStyle: DtFontStyle?,
     val fontSize: Int?,
+    val startIndex: Int?,
     val endIndex: Int?,
     val dtTextDecorations: List<DtTextDecoration>?
 )
