@@ -57,3 +57,16 @@ dependencies {
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
 }
+
+afterEvaluate {
+    publishing {
+        publications {
+            register<MavenPublication>("release") {
+                from(components["release"])
+                groupId = "com.github.iAmNoobDev"
+                artifactId = "dynamic-text"
+                version = "1.0.0"
+            }
+        }
+    }
+}
