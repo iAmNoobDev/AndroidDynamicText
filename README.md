@@ -1,7 +1,7 @@
 
 # Android Dynamic Text
 
-Dynamically manage text content and styling directly from your backend!
+Unleash the power of dynamic text! Style it all from the back-end like a coding ninja.
 
 AndroidDynamicText empowers you to create text-rich Android apps with complete control over text and styling from your backend.
 
