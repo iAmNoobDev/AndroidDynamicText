@@ -28,4 +28,4 @@ implementation("com.github.iAmNoobDev:AndroidDynamicText:1.0.0-alpha-01")
 ![Output Image](https://github.com/iAmNoobDev/AndroidDynamicText/blob/main/output.png)
 
 ## LICENSE
-Please see [MIT License](LICENSE) for more information
+Please see [License](LICENSE) for more information
