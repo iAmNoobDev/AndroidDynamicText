@@ -5,6 +5,10 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.material3.Text
 import androidx.compose.runtime.remember
+import com.iamnoobdev.dynamic_text.DtTextDecoration
+import com.iamnoobdev.dynamic_text.DynamicText
+import com.iamnoobdev.dynamic_text.DynamicTextStyle
+import com.iamnoobdev.dynamic_text.toDynamicText
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

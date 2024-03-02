@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Dynamic Text"
 include(":app")
- 
+include(":dynamic-text")

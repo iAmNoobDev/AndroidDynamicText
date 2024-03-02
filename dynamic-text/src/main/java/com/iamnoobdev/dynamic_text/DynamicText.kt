@@ -1,4 +1,4 @@
-package com.iAmNoobDev.dynamictext
+package com.iamnoobdev.dynamic_text
 
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.SpanStyle
