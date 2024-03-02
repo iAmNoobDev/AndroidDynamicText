@@ -65,7 +65,7 @@ afterEvaluate {
                 from(components["release"])
                 groupId = "com.github.iAmNoobDev"
                 artifactId = "dynamic-text"
-                version = "1.0.0"
+                version = "1.0.0-alpha-01"
             }
         }
     }
